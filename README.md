@@ -20,6 +20,8 @@ My Favorite Saying : A Worm Underground can never comprehend the Infinite Sky.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshhire&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=prathameshhire)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=prathameshhire&&style=flat-square" align="center" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
