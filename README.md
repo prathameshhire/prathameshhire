@@ -1,3 +1,4 @@
+<div align="center">
 <h1 align="center">Hello, I'm Prathamesh Hire</h1>
 <h2>💫 About Me</h2> 
 Master's Student at IUB <br>
@@ -20,7 +21,7 @@ My Favorite Saying : A Worm Underground can never comprehend the Infinite Sky.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshhire&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<div align="center">
+
 <img src="https://komarev.com/ghpvc/?username=prathameshhire&&style=flat-square" align="center" />
 </div>
 
