@@ -5,8 +5,8 @@ Master's Student at IUB <br>
 My Favorite Saying : A Worm Underground can never comprehend the Infinite Sky.
 
 
-<h2 align="left">🌐 Connect with me</h2>
-<p align="left">
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
 <a href="https://linkedin.com/in/prathamesh-hire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prathamesh-hire" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prat_hire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prat_hire" height="30" width="40" /></a>
 </p>
