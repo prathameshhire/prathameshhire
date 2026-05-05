@@ -77,10 +77,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshhire&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshhire&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
-</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prathameshhire&theme=tokyonight&hide_border=true&border_radius=8" />
