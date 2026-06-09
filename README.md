@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"A worm underground can never comprehend the infinite sky."*
+> *"AI is the answer to Fermi's Paradox"*
 
 ---
 
