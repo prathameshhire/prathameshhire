@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Master's Student at **Indiana University Bloomington**
+- 🎓 Master's Grad from **Indiana University Bloomington**
 - 🔭 Currently building full-stack apps and exploring AI systems
 - 💡 I believe great software is built through deep understanding, not just shipping
 - 📫 Reach me at **prathamesh.hire18@gmail.com**
